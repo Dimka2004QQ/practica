@@ -1,0 +1,26 @@
+body{
+    max-width: 1350px;
+}
+.header{
+    background-color: rgb(146, 242, 255);
+}
+.header-item{
+    color: aliceblue;
+    
+}
+.grid{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: auto auto auto auto;
+}
+.grid-title{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+}
+.grid-text{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
